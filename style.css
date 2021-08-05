@@ -1,0 +1,13 @@
+body {
+    background-color: skyblue;
+    height: 100vh;
+}
+
+
+.boxes {
+    display: flex;
+}
+
+#canvas {
+    background-color: slateblue;
+}
